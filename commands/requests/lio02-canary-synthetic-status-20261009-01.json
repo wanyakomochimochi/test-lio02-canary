@@ -1,0 +1,10 @@
+{
+  "request_id": "lio02-canary-synthetic-status-20261009-01",
+  "status": "PENDING",
+  "control_intent": {
+    "kind": "protocol3",
+    "operation": "STATUS",
+    "sequence_id": "TS-20261003-165100-ai-workspace-orchestration-tail"
+  },
+  "synthetic_only": true
+}

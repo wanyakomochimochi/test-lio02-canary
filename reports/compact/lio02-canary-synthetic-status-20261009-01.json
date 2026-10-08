@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "kind": "protocol3_readonly_compact_view",
+  "authoritative": false,
+  "operation": "STATUS",
+  "request_id": "lio02-canary-synthetic-status-20261009-01",
+  "sequence_id": "TS-20261003-165100-ai-workspace-orchestration-tail",
+  "status": "ACTIVE",
+  "generation": 10,
+  "writer_epoch": 10,
+  "session_id": "session-lio02-canary-synthetic",
+  "focus_id": "synthetic-focus",
+  "exact_next_action": "SYNTHETIC ONLY: inspect status; do not approve or advance any actual writer task",
+  "catalog_active_focus_ids": [],
+  "warnings": [],
+  "reported_review_status": "PENDING_HUMAN_REVIEW",
+  "reported_human_approval": "NOT_GRANTED",
+  "authorizes_human_approval": false,
+  "observed_head": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "source": {
+    "report_path": "reports/lio02-canary-synthetic-status-20261009-01.json",
+    "report_blob_sha": "1f9c3c140a9a186da3c2419930ad6fa6cde6da75",
+    "request_path": "commands/requests/lio02-canary-synthetic-status-20261009-01.json",
+    "request_blob_sha": "65134d700c9fea7465c77c02a9a8d74e52da69b2"
+  }
+}

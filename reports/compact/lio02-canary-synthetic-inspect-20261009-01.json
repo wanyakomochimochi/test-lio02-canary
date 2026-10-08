@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "kind": "protocol3_readonly_compact_view",
+  "authoritative": false,
+  "operation": "INSPECT",
+  "request_id": "lio02-canary-synthetic-inspect-20261009-01",
+  "sequence_id": "TS-20261003-165100-ai-workspace-orchestration-tail",
+  "status": "ACTIVE",
+  "generation": 10,
+  "writer_epoch": 10,
+  "session_id": "session-lio02-canary-synthetic",
+  "focus_id": "synthetic-focus",
+  "exact_next_action": "SYNTHETIC ONLY: inspect inspect; do not approve or advance any actual writer task",
+  "catalog_active_focus_ids": [
+    "synthetic-other-focus"
+  ],
+  "warnings": [
+    "FOCUS_CATALOG_DRIFT"
+  ],
+  "reported_review_status": "PENDING_HUMAN_REVIEW",
+  "reported_human_approval": "NOT_GRANTED",
+  "authorizes_human_approval": false,
+  "observed_head": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "source": {
+    "report_path": "reports/lio02-canary-synthetic-inspect-20261009-01.json",
+    "report_blob_sha": "c230dfc470b4fad438ee75bbbb8fa6ffffc20894",
+    "request_path": "commands/requests/lio02-canary-synthetic-inspect-20261009-01.json",
+    "request_blob_sha": "7cc0452c75eea64bca52545d68d9c176a1e948e8"
+  }
+}
