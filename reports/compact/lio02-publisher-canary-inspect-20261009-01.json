@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "kind": "protocol3_readonly_compact_view",
+  "authoritative": false,
+  "operation": "INSPECT",
+  "request_id": "lio02-publisher-canary-inspect-20261009-01",
+  "sequence_id": "TS-LIO02-CANARY-20261009",
+  "status": "ACTIVE",
+  "generation": 1,
+  "writer_epoch": 1,
+  "session_id": "session-synthetic-lio02-canary",
+  "focus_id": "synthetic-focus",
+  "exact_next_action": "SYNTHETIC CANARY ONLY: no real Writer Task or Human transition",
+  "catalog_active_focus_ids": [
+    "synthetic-other-focus"
+  ],
+  "warnings": [
+    "FOCUS_CATALOG_DRIFT"
+  ],
+  "reported_review_status": "PENDING_HUMAN_REVIEW",
+  "reported_human_approval": "NOT_GRANTED",
+  "authorizes_human_approval": false,
+  "observed_head": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "source": {
+    "report_path": "reports/lio02-publisher-canary-inspect-20261009-01.json",
+    "report_blob_sha": "7fdcd64637538e446bf5cf2419a33e38b94ededc",
+    "request_path": "commands/requests/lio02-publisher-canary-inspect-20261009-01.json",
+    "request_blob_sha": "c8d090908067668f7278ed373a885f6219250c37"
+  }
+}
