@@ -1,0 +1,10 @@
+{
+  "request_id": "lio02-publisher-canary-inspect-20261009-01",
+  "status": "PENDING",
+  "control_intent": {
+    "kind": "protocol3",
+    "operation": "INSPECT",
+    "sequence_id": "TS-LIO02-CANARY-20261009"
+  },
+  "synthetic_only": true
+}
